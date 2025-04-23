@@ -12,6 +12,7 @@ This Power BI dashboard explores life expectancy trends across countries, highli
 ## 📂 Files Included:
 - `Life Expectancy.pbix` – Power BI Dashboard file
 - `dashboard.png` – Screenshot preview of the dashboard
+- `Life Expectancy Data.csv` - Raw Datset
 
 ## 🛠 Tools Used:
 - Power BI
