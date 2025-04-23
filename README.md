@@ -20,7 +20,7 @@ This Power BI dashboard explores life expectancy trends across countries, highli
 
 ## 📷 Preview:
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard](https://github.com/mshukla94/Life-Expectancy-Dashboard/blob/main/Dashboard.png?raw=true)
 
 ## 💡 Insights:
 - Higher income countries have significantly higher average life expectancy.
