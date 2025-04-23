@@ -1,6 +1,7 @@
 # Life Expectancy Dashboard
 
-This Power BI dashboard explores life expectancy trends across countries, highlighting the influence of income groups and key health indicators.
+This is a Power BI dashboard analyzing global life expectancy trends based on various socio-economic indicators. It offers insights into the impact of GDP, education, health spending, and income levels on life expectancy across countries.
+
 
 ## 📊 Features:
 - Country-wise life expectancy breakdown
